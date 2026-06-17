@@ -143,7 +143,7 @@ export const handler = async (event) => {
       body: JSON.stringify(nuevaCuenta),
     };
   }
-  */
+  
 
   // ── Método no soportado ──
   return {
